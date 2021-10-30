@@ -10,6 +10,9 @@ __pycache__/
 idea/
 .idea
 
+# settings.ini for The Check
+settings.ini
+
 # Distribution / packaging
 .Python
 build/
